@@ -1,8 +1,8 @@
 """Tests for statistics functions within the Model layer."""
 
+import datetime
 import pandas as pd
 import pandas.testing as pdt
-import datetime
 import pytest
 
 @pytest.mark.parametrize(
